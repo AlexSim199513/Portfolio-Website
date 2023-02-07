@@ -1,0 +1,92 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+header {
+    display: flex;
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    width: 50%;
+}
+
+nav {
+    margin-top: 25px;
+    font-size: 1.25rem;
+    display: block;
+    width: 50%;
+    text-align: right;
+} 
+
+nav a {
+    padding: 2px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: aquamarine;
+}
+
+#aboutMe {
+    width: 60%;
+    margin: auto;
+}
+
+#projects {
+    width: 60%;
+    margin: auto;
+}
+
+h3:hover {
+    color: aquamarine;
+}
+
+#calculator {
+    display: none;
+}
+
+#timer {
+    display: none;
+}
+
+#batrep {
+    width: 80%;
+    margin: auto;
+    display: none;
+}
+
+#skills {
+    width: 60%;
+    margin: auto;
+}  
+
+li {
+    padding-top: 5px;
+    font-size: 1.25rem;
+}
+
+#contact {
+    margin: auto;
+    width: 60%;
+    display: flex;
+    bottom: 0;
+    padding-left: 20%;
+}
+
+h4 {
+    width: 25%;
+    margin: auto;
+} 
+
+.linkedin {
+    width: 15%;
+    margin: auto;
+    text-decoration: none;
+}
+
+.linkedin:hover {
+    color: aquamarine;
+}
